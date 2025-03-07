@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de **Análise e Desenvolvimento
 
 ## 🔧 Tecnologias que uso
 - **Python** | **Java** | **JavaScript** | **C++**
-- **MySQL**
+- **SQL**
 - **HTML** | **CSS** | **SCSS**
 - **Git** | **GitHub**
 
