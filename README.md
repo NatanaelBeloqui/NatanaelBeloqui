@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil no GitHub! Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac de Joinville e programador back-end. Aqui você encontra meus projetos de faculdade, cursos e desafios que estou resolvendo.
 
 ## 🔧 Tecnologias que uso
-- **JavaScript** | **Python** | **Java** | **C++**
+- **C#** | **JavaScript** | **Python** | **Java** | **C++**
 - **SQL**
 - **HTML** | **CSS** | **SCSS**
 - **Git** | **GitHub**
