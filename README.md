@@ -3,14 +3,16 @@
 Bem-vindo ao meu perfil no GitHub! Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac de Joinville e programador back-end. Aqui você encontra meus projetos de faculdade, cursos e desafios que estou resolvendo.
 
 ## 🔧 Tecnologias que uso
-- **C#** | **JavaScript** | **Python** | **Java** | **C++**
-- **SQL**
-- **HTML** | **CSS** | **SCSS**
+- **C#** | **JavaScript**
+- **Postgre**
+- **HTML** | **CSS** | **SCSS** | **React**
 - **Git** | **GitHub**
+- **Postman** | **Insomnia**
 
-## 📚 Projetos Recentes
-- [**Atividade Final - Java**](https://github.com/NatanaelBeloqui/atividade_final): Projeto final da disciplina de Java, implementando conceitos de POO.
+## 📚 Projetos
+- [**Finanças Pessoais**](https://github.com/NatanaelBeloqui/financas_pessoais): Projeto para a aula de codificação segura (Evita Injection SQL, XSS e CSRF).
 - [**Número Secreto**](https://github.com/NatanaelBeloqui/numero-secreto): Jogo de número secreto em JavaScript.
+- [**Família Esperança**](https://github.com/NatanaelBeloqui/Projeto-Familia-Esperanca): Site para a igreja Família Esperança.
 
 ## 📬 Entre em contato
 - E-mail: nbdb2005@gmail.com
